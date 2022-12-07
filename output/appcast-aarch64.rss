@@ -1,0 +1,22 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>My Project Changelog</title>
+        <link>http://localhost:8899/appcast-aarch64.rss</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <link>http://localhost:8899/</link>
+            <sparkle:version>1.0.0</sparkle:version>
+            <description>
+                <![CDATA[ New release: version 1.0.0 ]]>
+            </description>
+            <pubDate>Wed, 7 Dec 2022 08:40:04 GMT</pubDate>
+            <enclosure url="http://localhost:8899/my-project-1.0-mac-aarch64.zip" 
+                       length="88258603" 
+                       type="application/octet-stream" 
+                       sparkle:edSignature="CckqHIR66RiZga65ZyKd96qxTfaiAqKqpF24O9eqhGcwC9Crpk7uxBVWtdvdtOOaQ/ZdFSkXWciiP3gTyZyNBw=="/>
+        </item>
+            
+    </channel>
+</rss>

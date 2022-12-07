@@ -1,0 +1,18 @@
+Architectures: amd64
+Components: main
+Date: Wed, 7 Dec 2022 08:41:28 GMT
+Description: Public archive for My Project
+Origin: My Project
+Suite: stable
+MD5Sum:
+ 36877299f5a493978e6445fa19bd66c9               692 Packages
+ c54fd438f299b74cbd5ec49878d472d5               516 Packages.xz
+SHA1:
+ 21752447fba7776404cd99f7b53dc7175833b633               692 Packages
+ a0726ee7aabf6f096c1739ed612217f97dfa18cd               516 Packages.xz
+SHA256:
+ 38bb043259ecd51821b518dae8e721862a498100bfdcc57274721fd0b759b7f3               692 Packages
+ b8ee882d87d4fc76ffa90ef9524b49675e4c3078fe9427e28b4eb2064bea43d2               516 Packages.xz
+SHA512:
+ f413a9ba41a971be12f6a38ec87b726e95b2e875c7fcd4dcfa7e3747960313c93bfae237c2f2ffa3c4c7643cac1e5f4ad14add30e9fb1c29ba7f0ee684d73899               692 Packages
+ 01af701b1ebd581ed94d972487706c3bbd611d1a33bcb2e2de6e59428e5d9683f7003a2a37b75ad6b01f7f40a86aa0403fc4238f64738561fa584fe6dd7accc8               516 Packages.xz
