@@ -1,0 +1,22 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Csysmd Changelog</title>
+        <link>http://localhost:8899/appcast-aarch64.rss</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <link>http://localhost:8899/</link>
+            <sparkle:version>1.0.0</sparkle:version>
+            <description>
+                <![CDATA[ New release: version 1.0.0 ]]>
+            </description>
+            <pubDate>Wed, 1 Feb 2023 05:56:03 GMT</pubDate>
+            <enclosure url="http://localhost:8899/csysmd-1.0-mac-aarch64.zip" 
+                       length="49638875" 
+                       type="application/octet-stream" 
+                       sparkle:edSignature="ihgSCa9xnJU4ugTvpYIi7GdyUkJDFLD4HDLmFF86NdhR9ynY0MSUW3G18Mp0v7IIPU7mPM4CjHlknyL5a1jTBA=="/>
+        </item>
+            
+    </channel>
+</rss>
