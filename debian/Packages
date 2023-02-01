@@ -1,0 +1,14 @@
+Architecture: amd64
+Built-With: Hydraulic Conveyor
+Depends: libxi6, libasound2 | liboss4-salsa-asound2, libx11-6, libgcc-s1, libgl1 | nvidia-340, libxtst6, zlib1g, libfontconfig1, libxext6, libc6, libfreetype6, libxrender1, libstdc++6
+Description: Csysmd
+Installed-Size: 114612
+Maintainer: <nobody@localhost>
+Package: csysmd
+Priority: optional
+Provides: csysmd
+Section: misc
+Version: 1.0
+Filename: debian/csysmd_1.0_amd64.deb
+Size: 42012348
+SHA256: 58c21f6902ab4bc393ce9261d28f560b589e146c82ed787c26297928cda2d6cd

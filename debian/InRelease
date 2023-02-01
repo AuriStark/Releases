@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64
+Components: main
+Date: Wed, 1 Feb 2023 05:56:39 GMT
+Description: Public archive for Csysmd
+Origin: Csysmd
+Suite: debian
+MD5Sum:
+ 109b7ea94f4da1c7fdb753959420cf7f               514 Packages
+ b93d2cf4d44c2290885ba8318a994232               440 Packages.xz
+SHA1:
+ e0f99bdfe453a0f3878547570dd4cb8a09a61b16               514 Packages
+ 8ee096de6d36f009391792a94093c1bc046b9c74               440 Packages.xz
+SHA256:
+ d5e5ff8ffeaace41ab32764c2b859db3192e7e6c9298bf63d1b8e34637eafc2a               514 Packages
+ cc6dadaaad064b1bd87e545995561160092b3e34ab0858426a3a2a450e7fdf04               440 Packages.xz
+SHA512:
+ 9e025d5addaf0b5e43ec0ff3b332248da132055c597acc9096829a8420bf87524595fc986281776d66f52eb58458351b9e080ccba75cbf6f38a7abea41fe6430               514 Packages
+ 9887ca7c86697d42b3308cc593991aefee66eaa31e491f730f4f27fd18a885e2987fc93d941206fd55fade59aab8f1dbdd5a91a002c57089d9cf1fc28d9cd15e               440 Packages.xz
+-----BEGIN PGP SIGNATURE-----
+Version: BCPG v1.69
+
+iF4EARMIAAYFAmPZ/xcACgkQnCxopWwH2qZpGwEAybEu6hE9IAyxW4aK+TfPlNKL
+aHuMdBetwXNrId6WGi8A/ipufHlYc6Bckg0lI9ad4rZYlVs4Hsch9eMdlup2MgHH
+=NL5V
+-----END PGP SIGNATURE-----
